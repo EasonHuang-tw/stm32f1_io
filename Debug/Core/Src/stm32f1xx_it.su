@@ -1,0 +1,16 @@
+stm32f1xx_ll_usart.h:1784:26:LL_USART_IsActiveFlag_PE	16	static
+stm32f1xx_ll_usart.h:1795:26:LL_USART_IsActiveFlag_FE	16	static
+stm32f1xx_ll_usart.h:1817:26:LL_USART_IsActiveFlag_ORE	16	static
+stm32f1xx_ll_usart.h:1839:26:LL_USART_IsActiveFlag_RXNE	16	static
+stm32f1xx_ll_usart.h:2461:26:LL_USART_ReceiveData9	16	static
+stm32f1xx_ll_usart.h:2485:22:LL_USART_TransmitData9	16	static
+stm32f1xx_it.c:69:6:NMI_Handler	4	static
+stm32f1xx_it.c:84:6:HardFault_Handler	4	static
+stm32f1xx_it.c:99:6:MemManage_Handler	4	static
+stm32f1xx_it.c:114:6:BusFault_Handler	4	static
+stm32f1xx_it.c:129:6:UsageFault_Handler	4	static
+stm32f1xx_it.c:144:6:SVC_Handler	4	static
+stm32f1xx_it.c:157:6:DebugMon_Handler	4	static
+stm32f1xx_it.c:170:6:PendSV_Handler	4	static
+stm32f1xx_it.c:183:6:SysTick_Handler	4	static
+stm32f1xx_it.c:204:6:USART3_IRQHandler	16	static
